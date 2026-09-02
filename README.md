@@ -222,17 +222,17 @@ The outputs include:
 The residual shown in the MNIST experiment uses the minimum observed loss
 along each simulation run as the reference value:
 
-\[
+$$
 f_{\mathrm{min,obs}}
 =
 \min_k f_k(x_i(k)).
-\]
+$$
 
 Accordingly, the plotted residual is
 
-\[
+$$
 f_k(x_i(k)) - f_{\mathrm{min,obs}}.
-\]
+$$
 
 This is an empirical reference quantity and is not necessarily equal to the
 difference from the exact time-varying optimal objective value.
