@@ -272,7 +272,7 @@ development files are excluded from version control through `.gitignore`.
 
 This repository contains the code associated with the following manuscript, which is currently under review:
 
-Daichi Ishikawa, Hinano Yasuda, Naoki Hayashi and Masahiro Inuiguchi,
+Daichi~Ishikawa, Hinano~Yasuda, Naoki~Hayashi and Masahiro~Inuiguchi,
 "Distributed Online Stochastic Learning for Open Multiagent Systems",
 manuscript under review.
 
@@ -284,8 +284,4 @@ Replace the placeholder above with the final bibliographic information before pu
 
 ## License
 
-A license has not yet been specified.
-
-Before public release, the authors will select an appropriate license in
-accordance with institutional, coauthor, and applicable research-policy
-requirements.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
