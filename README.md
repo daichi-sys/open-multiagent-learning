@@ -272,7 +272,7 @@ development files are excluded from version control through `.gitignore`.
 
 This repository contains the code associated with the following manuscript, which is currently under review:
 
-Daichi~Ishikawa, Hinano~Yasuda, Naoki~Hayashi and Masahiro~Inuiguchi,
+Daichi Ishikawa, Hinano Yasuda, Naoki Hayashi and Masahiro Inuiguchi,
 "Distributed Online Stochastic Learning for Open Multiagent Systems",
 manuscript under review.
 
