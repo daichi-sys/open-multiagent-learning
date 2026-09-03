@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# MNIST dataset
+data/
+
+# Generated experiment outputs
+output*/
+**/output*/
+
+# Generated figures
+*.png
+*.eps
+*.pdf
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
