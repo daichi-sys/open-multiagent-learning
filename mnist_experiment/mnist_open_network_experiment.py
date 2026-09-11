@@ -24,6 +24,14 @@ residual is an observed-loss residual, not the exact quantity
 f_k(x_i(k)) - f_k(x*(k)) unless that minimum coincides with the true optimum.
 """
 
+# ---------------------------------------------------------------------------
+# Copyright and acknowledgment
+# ---------------------------------------------------------------------------
+# Copyright (c) 2026 The University of Osaka
+#
+# This work was partially supported by Japan Society for the Promotion of
+# Science KAKENHI Grant Number JP26K07551.
+
 from dataclasses import dataclass
 from pathlib import Path
 import math

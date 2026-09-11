@@ -26,6 +26,14 @@ Notes
   not restore the agent's own stored checkpoint.
 """
 
+# ---------------------------------------------------------------------------
+# Copyright and acknowledgment
+# ---------------------------------------------------------------------------
+# Copyright (c) 2026 The University of Osaka
+#
+# This work was partially supported by Japan Society for the Promotion of
+# Science KAKENHI Grant Number JP26K07551.
+
 from dataclasses import asdict, dataclass
 from pathlib import Path
 import json

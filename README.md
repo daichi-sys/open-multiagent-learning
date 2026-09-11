@@ -285,3 +285,11 @@ Replace the placeholder above with the final bibliographic information before pu
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2026 The University of Osaka.
+
+---
+
+## Acknowledgments
+
+This work was partially supported by Japan Society for the Promotion of Science KAKENHI Grant Number JP26K07551.
